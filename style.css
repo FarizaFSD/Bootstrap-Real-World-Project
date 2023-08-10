@@ -9,3 +9,11 @@
   height: 16px;
   width: 16px;
 }
+.full-width {
+  width: 100%;
+  height: auto;
+}
+.feature-item img {
+  width: 70px;
+  height: auto;
+}

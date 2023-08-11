@@ -1,3 +1,3 @@
-### Bootstrap project PrimeInspire!
+### 🫶 Bootstrap project PrimeInspire!
 
-##### Check it out here:
+##### ✔️ Check it out here: https://farizafsd.github.io/Bootstrap-Real-World-Project/
